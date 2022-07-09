@@ -20,8 +20,9 @@ function sumOfNumbers(arrayOfNumbers) {
     sum += array[i]
   }
 
-  console.log(sum)
-  console.log(array.length)
+  // console.log(sum)
+  // console.log(array.length)
+  return sum
 }
 assignment.sumOfNumbers = sumOfNumbers([1, 2, 3, 4]);
 
