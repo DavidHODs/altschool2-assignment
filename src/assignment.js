@@ -23,7 +23,8 @@ function sumOfNumbers(arrayOfNumbers) {
   console.log("sum of numbers in the array")
   console.log(sum)
 }
-assignment.sumOfNumbers = sumOfNumbers([1, 2, 3, 4]);
+// assignment.sumOfNumbers = sumOfNumbers([1, 2, 3, 4]);
+assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
@@ -45,7 +46,8 @@ function countEvenNumbers(arrayOfNumbers) {
   console.log("number of even numbers in the array")
   console.log(count)
 }
-assignment.countEvenNumbers = countEvenNumbers([1,2,3,4,5,6,7,8,9,10]);
+// assignment.countEvenNumbers = countEvenNumbers([1,2,3,4,5,6,7,8,9,10]);
+assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
