@@ -22,7 +22,9 @@ function sumOfNumbers(arrayOfNumbers) {
 
   // console.log(sum)
   // console.log(array.length)
-  return sum
+  // return 
+  console.log(sum)
+  return (console.log(array.length))
 }
 assignment.sumOfNumbers = sumOfNumbers([1, 2, 3, 4]);
 
